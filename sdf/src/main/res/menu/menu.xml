@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_menu1"
+        android:title="로그인" />
+    <item
+        android:id="@+id/menu_menu2"
+        android:title="회원가입" />
+</menu>
